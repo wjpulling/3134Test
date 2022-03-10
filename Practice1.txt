@@ -1,0 +1,4 @@
+//INFO3134 Git Practice
+//Thur Mar 10, 2022
+
+Line 1. Our first commit point. 
