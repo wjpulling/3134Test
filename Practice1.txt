@@ -3,3 +3,4 @@
 
 Line 1. Our first commit point. 
 Line 2. Our second commit point.
+Line 3. Our third commit point on Friday Mar 11.
