@@ -8,4 +8,6 @@ Line 4. Our fourth commit done on siding1.
 
 Monday March 14
 Line 5. Our fifth commit done on main.
-Line 6. Sixth commit done online in GithUB EDITOR. 
+Line 6. Sixth commit done online in GithUB EDITOR.
+Line 7. Seventh commit done locally in Notepad++, saved and committed.
+ 
